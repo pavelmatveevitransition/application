@@ -1,3 +1,4 @@
 [submodule "common"]
 	path = common
 	url = git@github.com:pavelmatveevitransition/common.git
+	branch = main
